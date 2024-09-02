@@ -1,3 +1,4 @@
 articles/Neural_Operator-Learning_Maps_Between_Function_Spaces_With_Applications_to_PDEs_Kovachki_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/SympGNNs-Symplectic_graph_neural_networks_for_identifying_high-dimensional_Hamiltonian_systems_and_node_classification_Varghese_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Symplectic_Recurrent_Neural_Networks_Chen_2020.pdf filter=lfs diff=lfs merge=lfs -text
+articles/InferenceAndMachineLearningNotes_Deisenroth_ImperialCollege_2017.pdf filter=lfs diff=lfs merge=lfs -text
