@@ -14,6 +14,8 @@
 
 [The Mathematics of Neural Operators, Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/The_Mathematics_of_Neural_Operators_Alonso_2024.pdf)
 
+[Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations, M. Raissi, P. Perdikaris, G.E. Karniadakis, Brown U., 2018](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Physics-informed_neural_networks-A_deep_learning_framework_for_solving_forward_and_inverse_problems_involving_nonlinear_pde_Raissi_2018.pdf)
+
 ### AAAI 2021 Spring Symposium on Combining  Artificial Intelligence and Machine Learning with Physics Sciences, March 22-24, 2021
 #### Videos
 
