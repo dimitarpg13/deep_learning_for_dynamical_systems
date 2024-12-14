@@ -14,7 +14,9 @@
 
 [The Mathematics of Neural Operators, Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/The_Mathematics_of_Neural_Operators_Alonso_2024.pdf)
 
-[Partial Differential Equations and Neural Operators, Zongyi Li, Caltech, 2022 slides](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Neural-Operator-CS159-0503-2022.pdf)
+[Partial Differential Equations and Neural Operators, Zongyi Li, Caltech, 2022 (slides)](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Neural-Operator-CS159-0503-2022.pdf)
+
+[Neural Operator For Parametric PDEs, Zongyi Li, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhattacharya, Andrew Stuart, Anima Anandkumar, Caltech, Purdue, 2021 (slides)](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Neural_Operator_For_Parametric_PDEs_Li_2021.pdf)
 
 [Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations, M. Raissi, P. Perdikaris, G.E. Karniadakis, Brown U., 2018](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Physics-informed_neural_networks-A_deep_learning_framework_for_solving_forward_and_inverse_problems_involving_nonlinear_pde_Raissi_2018.pdf)
 
