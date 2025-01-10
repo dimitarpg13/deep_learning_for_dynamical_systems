@@ -5,3 +5,5 @@ articles/InferenceAndMachineLearningNotes_Deisenroth_ImperialCollege_2017.pdf fi
 articles/Physics-informed_neural_networks-A_deep_learning_framework_for_solving_forward_and_inverse_problems_involving_nonlinear_pde_Raissi_2018.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Neural-Operator-CS159-0503-2022.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Neural_Operator_For_Parametric_PDEs_Li_2021.pdf filter=lfs diff=lfs merge=lfs -text
+articles/Variational_Autoencoding_Neural_Operators_Seidman_2023.pdf filter=lfs diff=lfs merge=lfs -text
+articles/WorldFoundationModels/Cosmos_World_Foundation_Model_Platform_for_Physical_AI_Nvidia_2025.pdf filter=lfs diff=lfs merge=lfs -text
