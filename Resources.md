@@ -14,6 +14,8 @@
 
 [The Mathematics of Neural Operators, Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/The_Mathematics_of_Neural_Operators_Alonso_2024.pdf)
 
+[Variational Autoencoding Neural Operators. Jacob H. Seidman et al, 2023](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Variational_Autoencoding_Neural_Operators_Seidman_2023.pdf)
+
 [Partial Differential Equations and Neural Operators, Zongyi Li, Caltech, 2022 (slides)](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Neural-Operator-CS159-0503-2022.pdf)
 
 [Neural Operator For Parametric PDEs, Zongyi Li, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhattacharya, Andrew Stuart, Anima Anandkumar, Caltech, Purdue, 2021 (slides)](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Neural_Operator_For_Parametric_PDEs_Li_2021.pdf)
