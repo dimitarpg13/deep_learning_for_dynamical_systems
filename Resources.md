@@ -29,6 +29,10 @@
 
 [Cosmos World Foundation Model Platform for Physical AI, NVidia, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/WorldFoundationModels/Cosmos_World_Foundation_Model_Platform_for_Physical_AI_Nvidia_2025.pdf)
 
+### Quantum Computing implemented Deep Learning Algorithms for solving PDEs
+
+[QCPINN: Quantum Classical Physics-Informed Neural Networks for Solving PDEs, Afrah Farea, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/QCPINN-Quantum_Classical_Physics-Informed_Neural_Networks_for_Solving_PDEs_Farea_2025.pdf)
+
 ### AAAI 2021 Spring Symposium on Combining  Artificial Intelligence and Machine Learning with Physics Sciences, March 22-24, 2021
 #### Videos
 
