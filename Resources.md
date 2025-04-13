@@ -4,6 +4,18 @@
 
 ## Articles
 
+### Physics-Inspired Neural Networks
+
+[Physics-informed Deep Learning (Part I): Data driven Solutions of Partial Differential Equations, M. Raissi et al , 2017](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Physics-Informed_Deep_Learning_Part_I_Raissi_2017.pdf)
+
+[Physics-Informed Deep Learning (Part II): Data driven Solutions of Partial Differential Equations, M. Raissi et al , 2017](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Physics_Informed_Deep_Learning_Part_II-Data-driven_Discovery_of_Nonlinear_Partial_Differential_Equations_Raissi_2017.pdf)
+
+[Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations, M. Raissi, P. Perdikaris, G.E. Karniadakis, Brown U., 2018](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Physics-informed_neural_networks-A_deep_learning_framework_for_solving_forward_and_inverse_problems_involving_nonlinear_pde_Raissi_2018.pdf)
+
+[Physics-Informed Learning of Governing Equations from Scarce Data, Z. Chen et al, 2020](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Physics-informed_learning_of_governing_equations_from_scarce_data_Chen_2021.pdf)
+
+[From PINN to PIKANs - Recent Advances in Physics-Informed Machine Learning, Juan Diego Toscano et al, 2024](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/From_PINNs_to_PIKANs-Recent_Advances_in_Physics-Informed_Machine_Learning_Toscano_2024.pdf)
+
 ### Neural Operators
 
 [Neural Operators for Accelerating Scientific Simulations and Design, K. Azizzadenesheli et al, 2024](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Neural_Operators_for_Accelerating_Scientific_Simulations_and_Design_Azzizadenesheli_NVidia_2024.pdf)
@@ -22,8 +34,18 @@
 
 [Neural Operator For Parametric PDEs, Zongyi Li, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhattacharya, Andrew Stuart, Anima Anandkumar, Caltech, Purdue, 2021 (slides)](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Neural_Operator_For_Parametric_PDEs_Li_2021.pdf)
 
-[Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations, M. Raissi, P. Perdikaris, G.E. Karniadakis, Brown U., 2018](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Physics-informed_neural_networks-A_deep_learning_framework_for_solving_forward_and_inverse_problems_involving_nonlinear_pde_Raissi_2018.pdf)
 
+### Presentations and Lectures
+
+[Physics-Informed Learning Machines, G.E. Karniadakis, Brown U., 2019](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/docs/Physics_Informed_Learning_Machines_NENAD19_Karniadakis.pdf)
+
+[Recent Advances in Physics-Inspired Machine Learning: A Toturial, Y. Lu , G., Roskoff, 2024](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/docs/Recent_Advances_in_PIML_Lu_2024.pdf)
+
+[Physics-Informed Machine Learning, Z. Hao, 2024](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/docs/Physics_Informed_Machine_Learning_Hao_2024.pdf)
+
+### Deep Learning and Reinforcement Learning Solutions for dynamical systems
+
+[Deep Learning for High-Dimensional Stochastic Hamilton-Jacobi-Bellman Equations, F. Arias, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Deep_Learning_for_High-Dimensional_Stochastic_Hamilton-Jacobi-Bellman_Equations_Arias_2025.pdf)
 
 ### World Foundation Models
 
