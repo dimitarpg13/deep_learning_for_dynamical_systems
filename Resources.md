@@ -28,6 +28,8 @@
 
 [The Mathematics of Neural Operators, Miquel Noguer i Alonso, 2024](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/The_Mathematics_of_Neural_Operators_Alonso_2024.pdf)
 
+[The Mathematics of Physics-Informed Neural Networks vs. Physics-Informed Neural Operators, Miquel Noguer I Alonso, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/The_Mathematics_of_Physics-Informed_Neural_Networks_vs_Physics-Informed_Neural_Operators_Alonso_2025.pdf)
+
 [Variational Autoencoding Neural Operators. Jacob H. Seidman et al, 2023](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Variational_Autoencoding_Neural_Operators_Seidman_2023.pdf)
 
 [Partial Differential Equations and Neural Operators, Zongyi Li, Caltech, 2022 (slides)](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Neural-Operator-CS159-0503-2022.pdf)
