@@ -2,6 +2,8 @@
 
 ## Books
 
+[Lectures on Neural Dynamics, Fransesco Bullo, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/books/Lectures_Neural_Dynamics_Bullo_2025.pdf)
+
 ## Articles
 
 ### Physics-Inspired Neural Networks
