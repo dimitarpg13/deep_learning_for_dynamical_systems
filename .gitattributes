@@ -20,3 +20,4 @@ docs/Physics-informed_Machine_Learning-A_very_gentle_introduction_nih_piml_bilio
 books/Lectures_Neural_Dynamics_Bullo_2025.pdf filter=lfs diff=lfs merge=lfs -text
 books/Contraction_Theory_Dynamical_Systems_Bullo_2024.pdf filter=lfs diff=lfs merge=lfs -text
 books/Lectures_Network_Systems_Bullo_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/PDE-Transformer-Efficient_and_Versatile_Transformers_for_Physics_Simulations_Holzschuh_2025.pdf filter=lfs diff=lfs merge=lfs -text
