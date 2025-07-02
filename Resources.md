@@ -6,6 +6,10 @@
 
 ## Articles
 
+### PDE Transformer
+
+[PDE-Transformer: Efficient and Versatile Transformers for Physics Simulations, Benjamin Holzschuh, Qiang Liu, Georg Kohl, Nils Thuerey, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/PDE-Transformer-Efficient_and_Versatile_Transformers_for_Physics_Simulations_Holzschuh_2025.pdf)
+
 ### Physics-Inspired Neural Networks
 
 [Physics-informed Deep Learning (Part I): Data driven Solutions of Partial Differential Equations, M. Raissi et al , 2017](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Physics-Informed_Deep_Learning_Part_I_Raissi_2017.pdf)
