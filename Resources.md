@@ -55,6 +55,11 @@ web page: https://tum-pbs.github.io/pde-transformer/landing.html
 
 [Oscillatory State-Space Models, T. Konstantin Rusch, Daniela Rus, MIT, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Oscillatory_State-Space_Models_Rusch_MIT_2025.pdf)
 
+### Physics Emulaton via Generative Models
+
+[Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation, François Rozet et al, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/diffusion_for_physics_emulation/Lost_in_Latent_Space-An_Empirical_Study_of_Latent_Diffusion_Models_for_Physics_Emulation_Rozet_2025.pdf)
+
+git repo: https://github.com/polymathicai/lola
 
 ### Presentations and Lectures
 
