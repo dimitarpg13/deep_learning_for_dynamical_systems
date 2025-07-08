@@ -21,3 +21,4 @@ books/Lectures_Neural_Dynamics_Bullo_2025.pdf filter=lfs diff=lfs merge=lfs -tex
 books/Contraction_Theory_Dynamical_Systems_Bullo_2024.pdf filter=lfs diff=lfs merge=lfs -text
 books/Lectures_Network_Systems_Bullo_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/PDE-Transformer-Efficient_and_Versatile_Transformers_for_Physics_Simulations_Holzschuh_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/diffusion_for_physics_emulation/Lost_in_Latent_Space-An_Empirical_Study_of_Latent_Diffusion_Models_for_Physics_Emulation_Rozet_2025.pdf filter=lfs diff=lfs merge=lfs -text
