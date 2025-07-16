@@ -18,7 +18,7 @@ additional docs: https://tum-pbs.github.io/pde-transformer/
 
 web page: https://tum-pbs.github.io/pde-transformer/landing.html
 
-### Physics-Inspired Neural Networks
+### Physics-Inspired/-Informed Neural Networks
 
 [Physics-informed Deep Learning (Part I): Data driven Solutions of Partial Differential Equations, M. Raissi et al , 2017](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Physics-Informed_Deep_Learning_Part_I_Raissi_2017.pdf)
 
@@ -29,6 +29,12 @@ web page: https://tum-pbs.github.io/pde-transformer/landing.html
 [Physics-Informed Learning of Governing Equations from Scarce Data, Z. Chen et al, 2020](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Physics-informed_learning_of_governing_equations_from_scarce_data_Chen_2021.pdf)
 
 [From PINN to PIKANs - Recent Advances in Physics-Informed Machine Learning, Juan Diego Toscano et al, 2024](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/From_PINNs_to_PIKANs-Recent_Advances_in_Physics-Informed_Machine_Learning_Toscano_2024.pdf)
+
+[What Is Physics-Informed Machine Learning? blog by Sivylla Paraskevopoulou, June 23, 2025](https://blogs.mathworks.com/deep-learning/2025/06/23/what-is-physics-informed-machine-learning/)
+
+[Physics-Informed Machine Learning: Methods and Implementation, Sivylla Paraskevopoulou, July 14, 2025](https://blogs.mathworks.com/deep-learning/2025/07/14/physics-informed-machine-learning-methods-and-implementation/)
+
+related github repo: https://github.com/matlab-deep-learning/SciML-and-Physics-Informed-Machine-Learning-Examples/tree/main/phiml-blog-supporting-code
 
 ### Neural Operators
 
