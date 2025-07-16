@@ -32,7 +32,7 @@ web page: https://tum-pbs.github.io/pde-transformer/landing.html
 
 [What Is Physics-Informed Machine Learning? blog by Sivylla Paraskevopoulou, June 23, 2025](https://blogs.mathworks.com/deep-learning/2025/06/23/what-is-physics-informed-machine-learning/)
 
-[Physics-Informed Machine Learning: Methods and Implementation, Sivylla Paraskevopoulou, July 14, 2025](https://blogs.mathworks.com/deep-learning/2025/07/14/physics-informed-machine-learning-methods-and-implementation/)
+[Physics-Informed Machine Learning: Methods and Implementation, blog by Sivylla Paraskevopoulou, July 14, 2025](https://blogs.mathworks.com/deep-learning/2025/07/14/physics-informed-machine-learning-methods-and-implementation/)
 
 related github repo: https://github.com/matlab-deep-learning/SciML-and-Physics-Informed-Machine-Learning-Examples/tree/main/phiml-blog-supporting-code
 
