@@ -65,11 +65,11 @@ related github repo: https://github.com/matlab-deep-learning/SciML-and-Physics-I
 
 [Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation, François Rozet et al, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/diffusion_for_physics_emulation/Lost_in_Latent_Space-An_Empirical_Study_of_Latent_Diffusion_Models_for_Physics_Emulation_Rozet_2025.pdf)
 
+git repo: https://github.com/polymathicai/lola
+
 ### Generative Models for Finite Elements Analysis
 
 [Interpolation Mesh-Graph Net using disconnected spatial graphs of higher order element based meshes, József Ádám Sebestyén et al, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/finite_elements/Interpolation_Mesh-Graph_Net_using_disconnected_spatial_graphs_of_higher_order_element_base_meshes_Sebestyen_2025.pdf)
-
-git repo: https://github.com/polymathicai/lola
 
 ### Presentations and Lectures
 
