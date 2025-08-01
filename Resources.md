@@ -71,6 +71,10 @@ git repo: https://github.com/polymathicai/lola
 
 [Interpolation Mesh-Graph Net using disconnected spatial graphs of higher order element based meshes, József Ádám Sebestyén et al, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/finite_elements/Interpolation_Mesh-Graph_Net_using_disconnected_spatial_graphs_of_higher_order_element_base_meshes_Sebestyen_2025.pdf)
 
+### Additional Physics-Informed Machine Learning literature list
+
+[Physics-Informed Learning Machines Literature, Citations from Physics of Data Obsidian vault, Alfonso R. Reyes, 2025-07-31](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Physics-Informed_Learning_Machines_Literature_Reyes_7-31-25.pdf)
+
 ### Presentations and Lectures
 
 [Physics-Informed Learning Machines, G.E. Karniadakis, Brown U., 2019](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/docs/Physics_Informed_Learning_Machines_NENAD19_Karniadakis.pdf)
