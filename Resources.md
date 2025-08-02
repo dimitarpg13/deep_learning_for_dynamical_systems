@@ -57,7 +57,7 @@ related github repo: https://github.com/matlab-deep-learning/SciML-and-Physics-I
 [Neural Operator For Parametric PDEs, Zongyi Li, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik Bhattacharya, Andrew Stuart, Anima Anandkumar, Caltech, Purdue, 2021 (slides)](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Neural_Operator_For_Parametric_PDEs_Li_2021.pdf)
 
 
-### Osciallatory State-Space Models
+### Oscillatory State-Space Models
 
 [Oscillatory State-Space Models, T. Konstantin Rusch, Daniela Rus, MIT, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Oscillatory_State-Space_Models_Rusch_MIT_2025.pdf)
 
