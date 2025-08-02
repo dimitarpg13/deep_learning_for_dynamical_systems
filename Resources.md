@@ -79,7 +79,7 @@ git repo: https://github.com/polymathicai/lola
 
 [Physics-Informed Learning Machines, G.E. Karniadakis, Brown U., 2019](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/docs/Physics_Informed_Learning_Machines_NENAD19_Karniadakis.pdf)
 
-[Recent Advances in Physics-Inspired Machine Learning: A Toturial, Y. Lu , G., Roskoff, 2024](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/docs/Recent_Advances_in_PIML_Lu_2024.pdf)
+[Recent Advances in Physics-Inspired Machine Learning: A Tutorial, Y. Lu , G., Roskoff, 2024](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/docs/Recent_Advances_in_PIML_Lu_2024.pdf)
 
 [Physics-Informed Machine Learning, Z. Hao, 2024](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/docs/Physics_Informed_Machine_Learning_Hao_2024.pdf)
 
