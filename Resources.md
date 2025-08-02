@@ -91,6 +91,11 @@ git repo: https://github.com/polymathicai/lola
 
 [Cosmos World Foundation Model Platform for Physical AI, NVidia, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/WorldFoundationModels/Cosmos_World_Foundation_Model_Platform_for_Physical_AI_Nvidia_2025.pdf)
 
+### Deep Learning via Clifford Algebras
+
+[Introducing CliffordLayers: Neural Network layers inspired by Clifford / Geometric Algebras, Microsoft blog, March 9, 2023](https://www.microsoft.com/en-us/research/articles/introducing-cliffordlayers-neural-network-layers-inspired-by-clifford-geometric-algebras/)
+
+
 ### Quantum Computing implemented Deep Learning Algorithms for solving PDEs
 
 [QCPINN: Quantum Classical Physics-Informed Neural Networks for Solving PDEs, Afrah Farea, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/QCPINN-Quantum_Classical_Physics-Informed_Neural_Networks_for_Solving_PDEs_Farea_2025.pdf)
