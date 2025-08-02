@@ -99,6 +99,7 @@ git repo: https://github.com/polymathicai/lola
 
 [Geometric Clifford Algebra Networks and Clifford Neural Layers for PDE Modeling, Valence Labs, youtube video, 2023](https://youtu.be/VXziLgMIWf8?si=yMEgtGPQ9JVanqeb)
 
+[GAME23 Johannes Branstetter - Geometric Clifford Algebra Networks, Bivector, youtube video, 2024](https://youtu.be/O9BEc72Y1AI?si=_lW081iEabcb0WOQ)
 
 ### Quantum Computing implemented Deep Learning Algorithms for solving PDEs
 
