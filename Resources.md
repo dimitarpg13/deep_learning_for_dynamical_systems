@@ -101,6 +101,10 @@ git repo: https://github.com/polymathicai/lola
 
 [GAME23 Johannes Branstetter - Geometric Clifford Algebra Networks, Bivector, youtube video, 2024](https://youtu.be/O9BEc72Y1AI?si=_lW081iEabcb0WOQ)
 
+[Geometric Clifford Algebra Networks, David Ruhe et al, 2023](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/clifford_algebra/Geometric_Clifford_Algebra_Networks_Ruhe_2023.pdf)
+
+[Clifford Neural Layers for PDE Modeling, Johannes Brandstetter et al, 2023](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/clifford_algebra/Clifford_Neural_Layers_for_PDE_Modeling_Brandstetter_2023.pdf)
+
 ### Quantum Computing implemented Deep Learning Algorithms for solving PDEs
 
 [QCPINN: Quantum Classical Physics-Informed Neural Networks for Solving PDEs, Afrah Farea, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/QCPINN-Quantum_Classical_Physics-Informed_Neural_Networks_for_Solving_PDEs_Farea_2025.pdf)
