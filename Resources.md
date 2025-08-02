@@ -95,6 +95,10 @@ git repo: https://github.com/polymathicai/lola
 
 [Introducing CliffordLayers: Neural Network layers inspired by Clifford / Geometric Algebras, Microsoft blog, March 9, 2023](https://www.microsoft.com/en-us/research/articles/introducing-cliffordlayers-neural-network-layers-inspired-by-clifford-geometric-algebras/)
 
+[Modeling Dynamical Systems with Geometric Clifford Algebra Networks, TransferLab AI blog, Oct 23, 2023](https://transferlab.ai/pills/2023/geometric-clifford-network/)
+
+[Geometric Clifford Algebra Networks and Clifford Neural Layers for PDE Modeling, Valence Labs, youtube video, 2023](https://youtu.be/VXziLgMIWf8?si=yMEgtGPQ9JVanqeb)
+
 
 ### Quantum Computing implemented Deep Learning Algorithms for solving PDEs
 
