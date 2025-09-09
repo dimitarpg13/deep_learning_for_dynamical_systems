@@ -71,6 +71,12 @@ git repo: https://github.com/polymathicai/lola
 
 [Interpolation Mesh-Graph Net using disconnected spatial graphs of higher order element based meshes, József Ádám Sebestyén et al, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/finite_elements/Interpolation_Mesh-Graph_Net_using_disconnected_spatial_graphs_of_higher_order_element_base_meshes_Sebestyen_2025.pdf)
 
+### Generative Models for Predicting Chemical Reactions
+
+[A new generative AI approach to predicting chemical reactions, D. Chandler, MIT News, 9/3/2025](https://news.mit.edu/2025/generative-ai-approach-to-predicting-chemical-reactions-0903)
+
+[Electron flow matching for generative reaction mechanism prediction obeying conservation laws, Joonyoung F. Joung et al, MIT, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/chemical_reactions/Electron_flow_matching_for_generative_reaction_mechanism_prediction_obeying_conservation_laws_Joung_2025.pdf)
+
 ### Additional Physics-Informed Machine Learning literature list
 
 [Physics-Informed Learning Machines Literature, Citations from Physics of Data Obsidian vault, Alfonso R. Reyes, 2025-07-31](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Physics-Informed_Learning_Machines_Literature_Reyes_7-31-25.pdf)
