@@ -29,3 +29,4 @@ articles/quantum_AI/Trainable_embedding_quantum_physics_informed_neural_networks
 articles/quantum_AI/QDataSet_quantum_datasets_for_machine_learning_Elija_Perrier_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/chemical_reactions/Electron_flow_matching_for_generative filter=lfs diff=lfs merge=lfs -text
 reaction_mechanism_prediction_obeying_conservation_laws_Joung_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/chemical_reactions/Electron_flow_matching_for_generative_reaction_mechanism_prediction_obeying_conservation_laws_Joung_2025.pdf filter=lfs diff=lfs merge=lfs -text
