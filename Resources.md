@@ -67,6 +67,12 @@ related github repo: https://github.com/matlab-deep-learning/SciML-and-Physics-I
 
 git repo: https://github.com/polymathicai/lola
 
+### Generative Models for Drug Discovery
+
+[New AI Model for Drug Design Brings More Physics to Bear in Predictions, Kimm Fesenmaier, Caltech blog, October 2025](https://www.caltech.edu/about/news/new-ai-model-for-drug-design-brings-more-physics-to-bear-in-predictions)
+
+[Manifold-constrained nucleus-level denoising diffusion modelfor structure-based drug design, S. Li et al, Caltech, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/diffusion_for_drug_discovery/Manifold-constrained_nucleus-level_denoising_diffusion_model_for_structure-based_drug_design_Liu_2025.pdf)
+
 ### Generative Models for Finite Elements Analysis
 
 [Interpolation Mesh-Graph Net using disconnected spatial graphs of higher order element based meshes, József Ádám Sebestyén et al, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/finite_elements/Interpolation_Mesh-Graph_Net_using_disconnected_spatial_graphs_of_higher_order_element_base_meshes_Sebestyen_2025.pdf)
