@@ -87,6 +87,12 @@ git repo: https://github.com/polymathicai/lola
 
 [Physics-Informed Learning Machines Literature, Citations from Physics of Data Obsidian vault, Alfonso R. Reyes, 2025-07-31](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/Physics-Informed_Learning_Machines_Literature_Reyes_7-31-25.pdf)
 
+### Criticallity of Dynamical Systems
+
+[The Self-Organized Criticality Paradigm in Economics & Finance, Jean-Philippe Bouchaud, 2024](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/criticality/The_Self-Organized_Criticality_Paradigm_in_Economics_and_Finance_Bouchaud_2024.pdf)
+
+[Dynamical criticality: overview and open questions, Andrea Roli et al, 2016](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/criticality/Dynamical_criticality-overview_and_open_questions_Roli_2016.pdf)
+
 ### Presentations and Lectures
 
 [Physics-Informed Learning Machines, G.E. Karniadakis, Brown U., 2019](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/docs/Physics_Informed_Learning_Machines_NENAD19_Karniadakis.pdf)
