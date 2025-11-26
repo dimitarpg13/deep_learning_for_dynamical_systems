@@ -67,6 +67,10 @@ related github repo: https://github.com/matlab-deep-learning/SciML-and-Physics-I
 
 git repo: https://github.com/polymathicai/lola
 
+### Generative Models in Computational Fluid Dynamics
+
+[Fluid Intelligence: A Forward Look on AI Foundation Models in Computational Fluid Dynamics, Neil Ashton, NVIDIA, 2025](https://github.com/dimitarpg13/deep_learning_for_dynamical_systems/blob/main/articles/CFE/Fluid_Intelligence-A_Forward_Look_on_AI_Foundation_Models_in_Computational_Fluid_Dynamics_Ashton_2025.pdf)
+
 ### Generative Models for Drug Discovery
 
 [New AI Model for Drug Design Brings More Physics to Bear in Predictions, Kimm Fesenmaier, Caltech blog, October 2025](https://www.caltech.edu/about/news/new-ai-model-for-drug-design-brings-more-physics-to-bear-in-predictions)
