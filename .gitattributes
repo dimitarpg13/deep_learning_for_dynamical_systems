@@ -34,3 +34,4 @@ articles/diffusion_for_drug_discovery/Manifold-constrained_nucleus-level_denoisi
 articles/criticality/The_Self-Organized_Criticality_Paradigm_in_Economics_and_Finance_Bouchaud_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/AlphaEvolve/Mathematical_Exploration_and_Discovery_at_Scale_Georgiev_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/CFE/Fluid_Intelligence-A_Forward_Look_on_AI_Foundation_Models_in_Computational_Fluid_Dynamics_Ashton_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/GIMLET/GIMLET-Generalizable_and_Interpretable_Model_Learning_through_Embedded_Thermodynamics_Shiratori_2025.pdf filter=lfs diff=lfs merge=lfs -text
